@@ -150,6 +150,8 @@ Together they create a **comprehensive financial overview interface**.
 ---
 Demo Screensots of the Dashboard:
 <img width="1546" height="880" alt="Screenshot 2026-04-06 093214" src="https://github.com/user-attachments/assets/9eb577cd-c044-42d3-82a7-a487571f34e0" />
+<img width="1279" height="844" alt="Screenshot 2026-04-06 093256" src="https://github.com/user-attachments/assets/9b6e284f-1691-4666-bf10-58ffce148686" />
+
 
 
 # 🎯 Learning Outcomes
